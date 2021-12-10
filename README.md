@@ -6,7 +6,7 @@
 
 ## About me
 - 🌎    I'm from Santos, São Paulo, Brazil
-- 📚    Web FullStack Development Student at Generation Brasil
+- 📚    Web FullStack Development Student at Generation Brazil
 - 🧑🏻    Pronouns: He/His
 
 ## Learning
