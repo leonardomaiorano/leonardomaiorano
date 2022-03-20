@@ -1,15 +1,14 @@
-# Hello everyone, I'm Leonardo Maiorano 😄
+# Hello everyone, I'm Leonardo Maiorano!
 <div> 
   <a href="https://www.linkedin.com/in/leonardomaiorano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:leonardomaiorano@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
-## About me
-- 🌎    I'm from Santos, São Paulo, Brazil
-- 📚    Web FullStack Development Student at Generation Brazil
-- 🧑🏻    Pronouns: He/His
+## ✨ About me
+<p align="justify">
+3 years of experience in Foreign Trade in transition to Software Development with a high level of organization, attention to details and strong communication skills. Passion for teamwork, knowledge exchange and all soft skills, looking forward to be challenged by new projects and tasks. Intending to impact people's lives through technology.</p>
 
-## Learning
+## 👨🏻‍💻 Coding with
 <div style="display: inline_block"><br>
   <img align="center" alt="LM-JAVA" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   <img align="center" alt="LM-MYSQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
@@ -23,7 +22,7 @@
 </div>
 
 
-## Stats
+## 🚀 Stats
 <div align="left">
   <a href="https://github.com/leonardomaiorano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardomaiorano&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
